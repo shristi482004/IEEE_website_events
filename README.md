@@ -1,5 +1,5 @@
 # IEEE_website_events
-# IEEE NITP Events Page
+
 
 ## Overview
 This repository contains the **Events Page** for the IEEE Student Branch of NIT Patna.  
@@ -33,4 +33,3 @@ The page is designed to be **responsive**, **interactive**, and **easy to naviga
 
 ---
 
-## Folder Structure
